@@ -1,0 +1,16 @@
+C:\Users\Nergis\source\repos\ML\ML\bin\Debug\net8.0-windows\ML.exe
+C:\Users\Nergis\source\repos\ML\ML\bin\Debug\net8.0-windows\ML.deps.json
+C:\Users\Nergis\source\repos\ML\ML\bin\Debug\net8.0-windows\ML.runtimeconfig.json
+C:\Users\Nergis\source\repos\ML\ML\bin\Debug\net8.0-windows\ML.dll
+C:\Users\Nergis\source\repos\ML\ML\bin\Debug\net8.0-windows\ML.pdb
+C:\Users\Nergis\source\repos\ML\ML\obj\Debug\net8.0-windows\ML.Form1.resources
+C:\Users\Nergis\source\repos\ML\ML\obj\Debug\net8.0-windows\ML.csproj.GenerateResource.cache
+C:\Users\Nergis\source\repos\ML\ML\obj\Debug\net8.0-windows\ML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nergis\source\repos\ML\ML\obj\Debug\net8.0-windows\ML.AssemblyInfoInputs.cache
+C:\Users\Nergis\source\repos\ML\ML\obj\Debug\net8.0-windows\ML.AssemblyInfo.cs
+C:\Users\Nergis\source\repos\ML\ML\obj\Debug\net8.0-windows\ML.csproj.CoreCompileInputs.cache
+C:\Users\Nergis\source\repos\ML\ML\obj\Debug\net8.0-windows\ML.dll
+C:\Users\Nergis\source\repos\ML\ML\obj\Debug\net8.0-windows\refint\ML.dll
+C:\Users\Nergis\source\repos\ML\ML\obj\Debug\net8.0-windows\ML.pdb
+C:\Users\Nergis\source\repos\ML\ML\obj\Debug\net8.0-windows\ML.genruntimeconfig.cache
+C:\Users\Nergis\source\repos\ML\ML\obj\Debug\net8.0-windows\ref\ML.dll
